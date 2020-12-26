@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning golang and vue
-Now (Sept. 2020) I'm a grade 7 student in Canton, China.
+🌱 I’m currently learning golang and vue Now (Sept. 2020)
+I'm a Grade 7 student in Canton, China.
 
 My email is <1821148036@qq.com>
-You can ask me about ~~anything~~ anything but no any math. :cry: 
-haha.
+Ask me about ~~anything~~ without math. :cry: 
+Haha.
 
 I can speak a little English, so we can make friends!
