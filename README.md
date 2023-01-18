@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🌱 Currently learning neovim.
 - 📖 A student from Canton, China.
 
-I can speak English, ~~(very poor though),~~ you can email me at
-<1821148036@qq.com> Or <chengruichen3@gmail.com>
 
-Telegram: [@Chemis_s](https://t.me/Chemis_s)
+Email: <chengruichen3@gmail.com>
+Telegram: [@coatp](https://t.me/coatp)
