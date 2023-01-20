@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - Email: <chengruichen3@gmail.com>
-- Telegram: [@makku](https://t.me/makku_n)
+- Telegram: [@makku_n](https://t.me/makku_n)
 
 OpenPGP Key Fingerprint:
  `9382 FD1D 3B50 C6FA C6DA  48E5 C3C2 4114 E3E6 5AA6`
