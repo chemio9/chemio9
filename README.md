@@ -26,8 +26,8 @@ OpenPGP Key Fingerprint:
  `9382 FD1D 3B50 C6FA C6DA  48E5 C3C2 4114 E3E6 5AA6`
 
 <details><summary>OpenPGP Public key:</summary>
-<p>
-<pre><code>
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGPFCJMBEADO0nJ9y27PfNhXnhYuUGxwqs+UntbEstHd8308awcHFpVbUiQ2
@@ -161,6 +161,6 @@ T5HctJIidH9Nhyo2J6BfbHYHNQ2668i2Ul2h0LVlx2RTW3vvNyEn0jn/Gg490vVl
 VBFPjEe9rCKk4GD5XFkge1l9wKZCXViTTRo=
 =dBXx
 -----END PGP PUBLIC KEY BLOCK-----
-</code></pre>
-</p>
+```
+
 </details>
