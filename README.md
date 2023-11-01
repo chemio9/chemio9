@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Currently learning neovim.
-- 📖 A grade-9 student from Canton, China.
+- 📖 A High School student from Canton, China.
 
+I know many programming languages but I am never proficient in a programming language! :P
 
 - Email: <chengruichen3@gmail.com>
 > email me at any time! :P
