@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently programming in lua.
+- 🌱 Currently working on Vue and LaTeX.
 - 🌟 Use Neovim & Arch Linux.
 - 🔥 Desire to make contributions to community.
-- 📖 A High School student from Canton, China.
+- 📖 A high school student from Canton, China.
 
 Use several programming languages but I am never proficient in any one of them! Programming for fun! :P
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemio9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Telegram: [@Chemio9](https://t.me/Chemio9)
 - Email: <chengruichen3@gmail.com>
@@ -31,6 +33,6 @@ OpenPGP Key Fingerprint:
 
 Retrieve it on `keys.openpgp.org`: [9382FD1D3B50C6FAC6DA48E5C3C24114E3E65AA6](https://keys.openpgp.org/vks/v1/by-fingerprint/9382FD1D3B50C6FAC6DA48E5C3C24114E3E65AA6)
 or
-```
+```bash
 $ gpg --keyserver hkps://keys.openpgp.org/ --recv-keys 9382FD1D3B50C6FAC6DA48E5C3C24114E3E65AA6
 ```
