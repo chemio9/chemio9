@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently working on Vue and LaTeX.
+- 🌱 Currently working on Vue and Golang.
 - 🌟 Use Neovim & Arch Linux.
+- 🔋 Full stack developer.
 - 🔥 Desire to make contributions to community.
 - 📖 A high school student from Canton, China.
 
