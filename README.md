@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Use several programming languages but I am never proficient in any one of them! Programming for fun! :P
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemio9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemio9&layout=pie&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - Telegram: [@Chemio9](https://t.me/Chemio9)
 - Email: <chengruichen3@gmail.com>
