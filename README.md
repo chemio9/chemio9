@@ -21,4 +21,4 @@ $ gpg --keyserver hkps://keys.openpgp.org/ --recv-keys 9382FD1D3B50C6FAC6DA48E5C
 ```
 > Ping me at any time, and feel free to encrypt your email. I'll reply ASAP. 😊 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemio9&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemio9&layout=compact&langs_count=15&exclude_repo=termux-rustls-debug,buck2-aarch64-debug)](https://github.com/anuraghazra/github-readme-stats)
