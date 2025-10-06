@@ -29,10 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/a1bae4d53b0e2
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -54,8 +50,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: buck-aarch64-debug, termux-aarch64-debug
           plugin_languages_threshold: 0%
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: chemio9.github.io
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
