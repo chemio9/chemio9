@@ -674,7 +674,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/certificates</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</div>
@@ -992,7 +992,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2025, 21:23:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2025, 22:12:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
