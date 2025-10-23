@@ -748,7 +748,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/certificates</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</div>
@@ -801,7 +801,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charmbracelet/wish</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make SSH apps, just like that! 💫</div>
@@ -854,7 +854,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaksi/sshesame</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity</div>
@@ -922,7 +922,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2025, 10:22:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2025, 11:32:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
