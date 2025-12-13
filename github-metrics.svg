@@ -760,7 +760,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>end-4/dots-hyprland</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">uhh questioning the meaning of dotfiles</div>
@@ -813,7 +813,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AvengeMedia/DankMaterialShell</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, and labwc.</div>
@@ -1020,7 +1020,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2025, 20:22:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2025, 21:21:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
