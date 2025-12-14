@@ -761,7 +761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asciinema/asciinema-player</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web player for terminal session recordings</div>
@@ -1021,7 +1021,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2025, 20:22:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2025, 21:21:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
