@@ -372,7 +372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knadh/listmonk</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.</div>
@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MeanderingProgrammer/render-markdown.nvim</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin to improve viewing Markdown files in Neovim</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sfxfs/rax3000qy-OpenWrt</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">适用于移动 RAX3000-Q(Y) 的刷机教程 | OpenWrt Firmwares for CMCC RAX3000-Q(Y)</div>
@@ -593,7 +593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2026, 02:21:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2026, 03:17:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
