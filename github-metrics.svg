@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cybernoid/archivemount</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fuse filesystem for mounting archives in formats supported by libarchive.</div>
@@ -1707,7 +1707,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2026, 18:22:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 May 2026, 19:54:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
