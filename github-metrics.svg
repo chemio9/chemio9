@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zuqini/zpack.nvim</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs</div>
@@ -1802,7 +1802,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2026, 05:55:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Jul 2026, 06:44:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
