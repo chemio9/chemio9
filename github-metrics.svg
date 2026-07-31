@@ -1534,7 +1534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>frankmorgner/vsmartcard</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">umbrella project for emulation of smart card readers or smart cards</div>
@@ -1581,7 +1581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zuqini/zpack.nvim</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs</div>
@@ -1740,7 +1740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>appleboy/gofight</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Testing API Handler written in Golang.</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2026, 01:19:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Aug 2026, 03:08:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
